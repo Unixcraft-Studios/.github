@@ -12,7 +12,7 @@ s, we approach every project with the same core tenets: do one thing and do it w
 
 ## Philosophy
 
-We operate under the UNIX and KKSS/Suckless principles:
+We operate under the UNIX and KISS/Suckless principles:
 
 - **Simplicity First**: Clean, readable code over clever abstractions
 - **Do One Thing Well**: Focused tools that compose elegantly
