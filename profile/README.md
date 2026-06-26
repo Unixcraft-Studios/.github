@@ -62,3 +62,6 @@ All Unixcraft projects follow these architectural principles:
 could have profiles here {
 Highlighting both out skills individually or maybe a list of our work;
 }
+
+---
+>All Logo's, artwork, or imagery for both UnixCraft and it's affiliated tooling are the sole property of their creator as defined, dated, and signed within that particular image's exif data for any questions reguarding use please reach out to UnixCraft before publishing any artwort you find here  
