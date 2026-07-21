@@ -4,7 +4,7 @@
 ## About
 
 Unixcraft Studios is a collaborative software collective dedicated to solving modern computing problems through the principles
-of the UNIX philosophy and suckless design paradigm. We believe that software should be simple, modular, and fast, crafted with
+of the UNIX philosophy and Suckless design paradigm. We believe that software should be simple, modular, and fast, crafted with
 explicit intention, not implicit abstraction.
 
 From low-level systems tooling to high-performance web applications, from kernel-level optimizations to custom rendering engine
@@ -101,6 +101,7 @@ I love building small tools that get bigger jobs done, each problem solved is a 
 
 #### Support:
 [![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/grandbirdlizard)
+[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](./.static/xmr_qr.png)
 
 </td>
 <td width="50%">
