@@ -100,8 +100,7 @@ I love building small tools that get bigger jobs done, each problem solved is a 
 [GitHub](https://github.com/GrandBIRDLizard) • [LinkedIn](https://www.linkedin.com/in/justin-m-891776392/) • [Medium](https://medium.com/@GrandBIRDLizard)
 
 #### Support:
-[![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/grandbirdlizard)
-[![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)](./.static/xmr_qr.png)
+[![BUY ME A COFFEE](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-acoffee&logoColor=black)](https://buymeacoffee.com/grandbirdlizard)
 
 </td>
 <td width="50%">
