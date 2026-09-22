@@ -1,9 +1,9 @@
-# Welcome to Unix-Craft Studios.
+# Welcome to UnixCraft-Studios.
  **Two programmers, opposite sides of the planet, one philosophy: UNIX.**
 
 ## About
 
-Unixcraft Studios is a collaborative software collective dedicated to solving modern computing problems through the principles
+Unixcraft-Studios is a collaborative software collective dedicated to solving modern computing problems through the principles
 of the UNIX philosophy and Suckless design paradigm. We believe that software should be simple, modular, and fast, crafted with
 explicit intention, not implicit abstraction.
 
