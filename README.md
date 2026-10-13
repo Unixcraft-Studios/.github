@@ -1,5 +1,4 @@
 # Welcome to Unix-Craft Studios.
- **Two programmers, opposite sides of the planet, one philosophy: UNIX.**
 
 ## About
 
